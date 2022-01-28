@@ -7,4 +7,4 @@ source("project.R")
 
 shinyApp(ui = ui, server = server)
 
-Note: this is dashboard runs slow because it need to scrape real time informaiton and using googld API. To explore the functions in advance, please feel free to see the video demo  via 
+Note: this is dashboard runs slow because it need to scrape real time informaiton and using googld API. To explore the functions in advance, please feel free to see the video demo (mp4).
